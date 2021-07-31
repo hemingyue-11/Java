@@ -1,0 +1,82 @@
+{
+    "created_time": "2021-03-19T08:40:53Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-19T08:50:19Z",
+            "id": "0",
+            "modified_time": "2021-03-20T05:58:38Z",
+            "name": "介绍.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-19T08:54:13Z",
+            "id": "0",
+            "modified_time": "2021-03-19T11:34:58Z",
+            "name": "单一职责原则.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-19T10:55:04Z",
+            "id": "0",
+            "modified_time": "2021-03-19T12:05:57Z",
+            "name": "接口隔离原则.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-19T12:07:03Z",
+            "id": "0",
+            "modified_time": "2021-03-19T13:42:46Z",
+            "name": "依赖倒转原则.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-20T05:17:13Z",
+            "id": "0",
+            "modified_time": "2021-03-20T05:34:17Z",
+            "name": "里氏替换原则.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-20T05:34:01Z",
+            "id": "0",
+            "modified_time": "2021-03-20T05:44:33Z",
+            "name": "开闭原则.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-20T05:44:59Z",
+            "id": "0",
+            "modified_time": "2021-03-20T05:56:59Z",
+            "name": "迪米特原则.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-03-20T05:57:25Z",
+            "id": "0",
+            "modified_time": "2021-03-20T05:57:43Z",
+            "name": "合成复用原则.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "0",
+    "modified_time": "2021-03-19T08:40:53Z",
+    "version": "1"
+}
